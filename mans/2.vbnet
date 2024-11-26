@@ -1,0 +1,65 @@
+WISE-USE-OF-GOODS(1)          User Manual          WISE-USE-OF-GOODS(1)
+
+NAME
+    Wise Use of Goods - Gas duti (Showing to wisely use what is given)
+
+SYNOPSIS
+    gas-duti wise-use-of-goods [OPTIONS] 
+
+DESCRIPTION
+    The concept of "Wise Use of Goods" reflects a disciplined approach to managing 
+    and utilizing resources. Emphasizing stewardship over material possessions, 
+    this practice focuses on sustaining the value of what is given and 
+    applying it for the common good.
+
+    *Gas duti*, as applied to this practice, implies a measured and mindful 
+    disposition toward both physical and spiritual resources, urging one to 
+    understand the transient nature of material wealth and prioritize long-term 
+    sustainability.
+
+    **Wise Use of Goods** encourages:
+    - Accountability in handling given resources.
+    - Efficiency in utilizing what is available.
+    - Refraining from excess or wastefulness.
+    - Acknowledging the contribution of others in sharing resources.
+    - Viewing each possession as part of a larger, interconnected ecosystem.
+
+    This principle can be applied to daily living, from managing finances and 
+    consumables to caring for the environment and fostering healthy communal ties.
+
+OPTIONS
+    --maximize-value, -m
+        Focus on extracting the greatest possible benefit from available goods.
+        Ideal for prioritizing usage that maximizes utility and minimizes waste.
+
+    --balance-need, -b
+        Encourage balanced use, ensuring that immediate needs are met while
+        preventing over-consumption or hoarding.
+
+    --share-resources, -s
+        Promote the sharing of goods and wealth with others in a way that is 
+        equitable and maintains community well-being.
+
+    --reduce-waste, -r
+        Focus on eliminating waste by reusing, recycling, and repurposing goods
+        wherever possible.
+
+EXAMPLES
+    gas-duti wise-use-of-goods --maximize-value --balance-need
+        Apply a principle of wisely utilizing goods in a manner that meets both
+        immediate needs and fosters long-term sustainability.
+
+    gas-duti wise-use-of-goods --share-resources --reduce-waste
+        Share available resources in an environmentally-conscious and communal 
+        manner, reducing excess consumption.
+
+SEE ALSO
+    stewardship(5), sustainability(7), generosity(1), resource-management(3)
+
+AUTHOR
+    This manual page was written by Justin David M., with inspiration from 
+    principles of communal and sustainable living.
+
+COPYRIGHT
+    2024 Justin David M. All rights reserved. 
+
