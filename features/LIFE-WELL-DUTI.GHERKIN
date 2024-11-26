@@ -1,0 +1,32 @@
+Feature: Life's Wellspring - Well fee duti
+    (Giving for the child’s needful upkeep)
+
+  Scenario: Life’s Wellspring principle
+    Given a child’s needs are to be met with compassion and foresight
+    When providing support, care, and education for the child
+    Then ensure steady, consistent provision for their growth and well-being
+
+  Scenario: Steady support for the child
+    Given the child is under your care
+    When meeting their material and emotional needs
+    Then provide for their consistent upkeep, both financially and emotionally
+
+  Scenario: Guide the child’s growth
+    Given the child is in need of education and mentorship
+    When offering guidance and direction
+    Then ensure the child’s personal development through thoughtful instruction
+
+  Scenario: Nurture the child’s well-being
+    Given the child’s holistic needs
+    When attending to their physical and emotional health
+    Then prioritize nurturing and sustaining their well-being
+
+  Scenario: Sustain a legacy of care
+    Given that the child’s future depends on the care they receive
+    When providing lasting support and resources
+    Then create a legacy of care that sustains future generations
+
+  Examples:
+    | Action                            | Result                                           |
+    | steady-support, guide-growth      | Consistent provision for child’s growth and well-being |
+    | nurture-well-being, sustain-legacy | Focus on the child’s holistic care and future sustainability |
