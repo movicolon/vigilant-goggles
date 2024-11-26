@@ -1,0 +1,63 @@
+HEEDFUL-MEASURE(1)           User Manual           HEEDFUL-MEASURE(1)
+
+NAME
+    Heedful Measure - Drink duti (Giving a wise balance in ways)
+
+SYNOPSIS
+    drink-duti heedful-measure [OPTIONS]
+
+DESCRIPTION
+    The concept of "Heedful Measure" embodies the practice of moderation 
+    and balance in all actions and consumption. It reflects the wisdom 
+    of knowing when to indulge and when to refrain, ensuring that one's 
+    actions and choices align with long-term well-being and harmony.
+
+    *Drink duti*, as applied to this practice, emphasizes the importance 
+    of thoughtful choices in both physical and metaphorical "drinks," 
+    suggesting that the nourishment and stimulation we seek should be 
+    consumed with awareness and balance, mindful of their effects on the 
+    mind, body, and spirit.
+
+    **Heedful Measure** encourages:
+    - Moderation in consumption, both of food and drink.
+    - Thoughtful consideration of the impact of choices.
+    - Finding a balance that promotes long-term health and happiness.
+    - Refraining from excess or overindulgence.
+    - Recognizing that true enjoyment lies in the right measure, not excess.
+
+    This principle can be applied to all areas of life, from managing one’s 
+    diet and lifestyle to making decisions about energy, time, and resources 
+    in a way that fosters sustainable joy and well-being.
+
+OPTIONS
+    --moderate-consumption, -m
+        Focus on keeping intake in check, ensuring a balanced approach to food, 
+        drink, and other forms of consumption.
+
+    --mindful-choice, -c
+        Make decisions with care, understanding the long-term effects and consequences 
+        of each choice.
+
+    --balance-pleasure, -b
+        Ensure that enjoyment is derived from the right balance of indulgence and restraint.
+
+    --prevent-excess, -p
+        Refrain from overindulgence, focusing instead on moderation and sustainability.
+
+EXAMPLES
+    drink-duti heedful-measure --moderate-consumption --mindful-choice
+        Apply moderation and awareness to consumption, making choices with the 
+        long-term impact in mind.
+
+    drink-duti heedful-measure --balance-pleasure --prevent-excess
+        Enjoy the pleasures of life in a balanced way, avoiding the pitfalls of excess.
+
+SEE ALSO
+    moderation(3), health(5), sustainability(7), mindful-living(2)
+
+AUTHOR
+    This manual page was written by Justin David M., inspired by the principles 
+    of moderation, mindfulness, and balanced living.
+
+COPYRIGHT
+    2024 Justin David M. All rights reserved.
