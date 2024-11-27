@@ -1,0 +1,50 @@
+HONOR OF SELF(1)              User Manual              HONOR OF SELF(1)
+
+NAME  
+    Honor of Self - Cart mark duti (Uplifting the child’s worth and pride)  
+
+SYNOPSIS  
+    cart-mark-duti honor-of-self [OPTIONS]  
+
+DESCRIPTION  
+    The principle of "Honor of Self" revolves around cultivating self-worth and 
+    pride in the child, ensuring they understand their intrinsic value and 
+    dignity. *Cart mark duti* calls for promoting self-respect and empowering the child 
+    to carry their identity with pride, dignity, and honor in all aspects of life. 
+
+    **Honor of Self** encourages:  
+    - Nurturing a positive self-image and fostering a sense of pride.  
+    - Encouraging the child to act with integrity and honor in their actions.  
+    - Teaching the importance of self-respect and setting boundaries for self-care.  
+    - Providing the child with tools for self-confidence and pride in their abilities.  
+    - Instilling a sense of value and worth that transcends external judgment or comparison.  
+
+OPTIONS  
+    --foster-self-respect, -r  
+        Focus on nurturing the child’s sense of self-worth, ensuring they understand and respect their own dignity.  
+
+    --instill-pride, -p  
+        Teach the child to take pride in their identity, actions, and accomplishments.  
+
+    --encourage-integrity, -i  
+        Encourage the child to act with honesty and integrity, upholding their values with strength.  
+
+    --teach-boundaries, -b  
+        Teach the child the importance of setting and respecting healthy boundaries to protect their dignity.  
+
+EXAMPLES  
+    cart-mark-duti honor-of-self --foster-self-respect --instill-pride  
+        Ensure the child understands their inherent worth and takes pride in their identity.  
+
+    cart-mark-duti honor-of-self --encourage-integrity --teach-boundaries  
+        Teach the child to live with integrity and establish healthy boundaries for self-respect.  
+
+SEE ALSO  
+    self-worth(3), integrity(5), pride(7), self-respect(1)  
+
+AUTHOR  
+    This manual page was written by Justin David M., inspired by the timeless principles of 
+    dignity, integrity, and the honor of self.  
+
+COPYRIGHT  
+    2024 Justin David M. All rights reserved.
